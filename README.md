@@ -8,6 +8,6 @@
 ### About Me
 <section>
   <p>
-    
+    I'm a Computer Science student at Tecnologico de Monterrey Campus Puebla. I love music and videogames. I'm currently practicing to improve my skills as a software developer and looking forward to meet more people involved in this area of investigation.
   </p>
 </section>
