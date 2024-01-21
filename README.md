@@ -11,3 +11,9 @@
     I'm a Computer Science student at Tecnologico de Monterrey Campus Puebla. I love music and videogames. I'm currently practicing to improve my skills as a software developer and looking forward to meet more people involved in this area of investigation.
   </p>
 </section>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorale05&size_weight=0.5&count_weight=0.5&theme=apprentice">
+  </a>
+</p>
