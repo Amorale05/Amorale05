@@ -13,7 +13,5 @@
 </section>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://amorale05-adrian-morales-projects.vercel.app/api/top-langs/?username=Amorale05&size_weight=0.5&count_weight=0.5&theme=apprentice">
-  </a>
+<img src="https://github-readme-stats-adrian-morales-projects.vercel.app/api/top-langs/?username=amorale05&size_weight=0.5&count_weight=0.5&theme=apprentice">
 </p>
